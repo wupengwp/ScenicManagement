@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+ 
+    <item>
+        <shape>
+            <solid android:color="@color/transparent" />
+ 
+            <stroke
+                android:width="1px"
+                android:color="@color/transparent" />
+        </shape>
+    </item>
+    <item 
+        android:left="0.5px"
+        android:right="0.5px"
+        android:top="-5px"
+        android:bottom="-5px">
+        <shape>
+            <solid android:color="@color/white" />
+ 
+            <stroke
+                android:width="1px"
+                android:color="@color/btn_border" />
+        </shape>
+    </item>
+ 
+</layer-list>

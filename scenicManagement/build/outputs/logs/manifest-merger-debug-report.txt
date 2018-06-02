@@ -1,0 +1,400 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:2:1-177:12
+INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:2:1-177:12
+INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:2:1-177:12
+INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:2:1-177:12
+MERGED from [:pullToRefreshlibrary] D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\pullToRefreshlibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a48050738eec7ec4f6cc00e5c775b5fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c2b6d6f3ba5d14159917783d436ee338\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\37730cca38e5d5a29d808d5b5bd9aa8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\79aa83de4af838ed19caf32594edabf9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ae1f2a37f9a8886ff0cf018ed3b1999a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b168fd089532e2267ccc3b04a18a4c37\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1553f9247083d5461dd44a59c4c34eb1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ac6355d423c222eb0e048c5cc30a461f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1edcac0af10f667d6498ca2091fa0a06\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\08882bfa20ee7db738f5c41252322f9b\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:2:1-177:12
+INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:2:1-177:12
+INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:2:1-177:12
+	package
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml
+		INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:5:5-35
+		INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml
+		INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml
+		INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:7:5-44
+MERGED from [:pullToRefreshlibrary] D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\pullToRefreshlibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [:pullToRefreshlibrary] D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\pullToRefreshlibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a48050738eec7ec4f6cc00e5c775b5fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a48050738eec7ec4f6cc00e5c775b5fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c2b6d6f3ba5d14159917783d436ee338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c2b6d6f3ba5d14159917783d436ee338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\37730cca38e5d5a29d808d5b5bd9aa8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\37730cca38e5d5a29d808d5b5bd9aa8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\79aa83de4af838ed19caf32594edabf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\79aa83de4af838ed19caf32594edabf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ae1f2a37f9a8886ff0cf018ed3b1999a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ae1f2a37f9a8886ff0cf018ed3b1999a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b168fd089532e2267ccc3b04a18a4c37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b168fd089532e2267ccc3b04a18a4c37\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1553f9247083d5461dd44a59c4c34eb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1553f9247083d5461dd44a59c4c34eb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ac6355d423c222eb0e048c5cc30a461f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ac6355d423c222eb0e048c5cc30a461f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1edcac0af10f667d6498ca2091fa0a06\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1edcac0af10f667d6498ca2091fa0a06\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\08882bfa20ee7db738f5c41252322f9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wupeng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\08882bfa20ee7db738f5c41252322f9b\AndroidManifest.xml:20:5-44
+INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:7:5-44
+	android:targetSdkVersion
+		INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:7:5-44
+		INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml
+		INJECTED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml
+supports-screens
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:9:5-14:39
+	android:largeScreens
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:11:9-36
+	android:smallScreens
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:14:9-36
+	android:normalScreens
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:12:9-38
+	android:resizeable
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:13:9-34
+	android:anyDensity
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:10:9-34
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:17:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:18:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:20:22-64
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:21:5-85
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:21:22-82
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:22:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:23:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:24:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:26:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:27:5-73
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:27:22-70
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:29:22-65
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:30:5-79
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:30:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:31:22-65
+uses-permission#android.permission.ACCESS_GPS
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:32:5-69
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:32:22-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:33:5-72
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:33:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:34:5-69
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:34:22-66
+uses-permission#android.permission.READ_SMS
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:35:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:36:5-67
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:36:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:37:5-65
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:37:22-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:38:5-81
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:38:22-78
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:40:5-74
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:40:22-71
+uses-permission#android.permission.BAIDU_LOCATION_SERVICE
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:41:5-81
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:41:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:42:5-81
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:42:22-78
+application
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:44:5-175:19
+MERGED from [:pullToRefreshlibrary] D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\pullToRefreshlibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:pullToRefreshlibrary] D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\pullToRefreshlibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:48:9-41
+	android:icon
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:47:9-45
+	android:allowBackup
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:46:9-35
+	android:theme
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:49:9-40
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:45:9-54
+activity#com.jiagu.management.activities.LoginActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:50:9-58:20
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:52:13-45
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:51:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:53:13-57:29
+action#android.intent.action.MAIN
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:54:17-69
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:54:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:56:17-77
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:56:27-74
+activity#com.jiagu.management.activities.MainActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:59:9-64:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:62:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:61:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:60:13-52
+activity#com.jiagu.management.activities.ForgetPassActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:65:9-70:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:68:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:67:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:66:13-58
+activity#com.jiagu.management.activities.MyInfoActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:71:9-76:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:75:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:74:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:73:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:72:13-54
+activity#com.jiagu.management.activities.EditNameActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:77:9-82:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:81:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:80:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:79:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:78:13-56
+activity#com.jiagu.management.activities.EditPhoneActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:83:9-88:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:86:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:85:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:84:13-57
+activity#com.jiagu.management.activities.FeedbackActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:89:9-94:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:93:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:92:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:91:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:90:13-56
+activity#com.jiagu.management.activities.EditPassActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:95:9-100:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:99:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:98:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:97:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:96:13-56
+activity#com.jiagu.management.activities.BaiduMarKingActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:101:9-106:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:105:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:104:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:103:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:102:13-60
+activity#com.jiagu.management.activities.ScenicSpotActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:107:9-112:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:111:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:110:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:109:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:108:13-58
+activity#com.jiagu.management.activities.ChoosePicActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:113:9-118:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:117:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:116:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:115:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:114:13-57
+activity#com.jiagu.management.activities.FileActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:119:9-124:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:123:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:122:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:121:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:120:13-52
+activity#com.jiagu.management.activities.PictureActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:125:9-130:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:129:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:128:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:127:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:126:13-55
+activity#com.jiagu.management.activities.ScenicMarKingActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:131:9-136:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:135:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:134:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:133:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:132:13-61
+activity#com.jiagu.management.activities.SoftwareActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:137:9-142:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:141:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:140:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:139:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:138:13-56
+activity#com.jiagu.management.activities.HelpActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:143:9-148:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:147:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:146:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:145:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:144:13-52
+activity#com.jiagu.management.activities.CuttingActivity
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:149:9-154:20
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:153:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:152:13-45
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:151:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:150:13-55
+service#com.jiagu.management.https.DownloadService
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:156:9-161:19
+	android:screenOrientation
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:160:13-49
+	android:label
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:159:13-44
+	android:configChanges
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:158:13-63
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:157:13-50
+service#com.baidu.location.f
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:162:9-166:19
+	android:process
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:165:13-38
+	android:enabled
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:164:13-35
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:163:13-48
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:168:9-170:56
+	android:value
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:170:13-53
+	android:name
+		ADDED from D:\androiddevelop\androidstudioWorkSpace\ScenicManagement\scenicManagement\src\main\AndroidManifest.xml:169:13-52

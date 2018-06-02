@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        applicationId "com.jiagu.management"
+        minSdkVersion 14
+        targetSdkVersion 27
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation project(':pullToRefreshlibrary')
+    implementation 'com.android.support:support-v4:27.1.1'
+    implementation files('libs/android-async-http-1.4.3.jar')
+    implementation files('libs/BaiduLBS_Android.jar')
+    implementation files('libs/fastjson-1.1.22.jar')
+    implementation files('libs/httpmime-4.1.2.jar')
+    implementation files('libs/universal-image-loader-1.9.3-with-sources.jar')
+}

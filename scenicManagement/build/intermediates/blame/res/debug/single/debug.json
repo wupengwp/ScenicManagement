@@ -1,0 +1,974 @@
+[
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_panel_bg.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\panel_bg.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_software_marka.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_software_marka.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_pic_home_head.jpg.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-nodpi\\pic_home_head.jpg"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_no_map.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_no_map.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_help_4.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_help_4.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_pic_upload_2.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-nodpi\\pic_upload_2.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_view_picture.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\view_picture.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_getcode_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_getcode_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_dialog_binding.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\dialog_binding.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_pic_binding_1.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-nodpi\\pic_binding_1.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\c2b6d6f3ba5d14159917783d436ee338\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_bottom.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\c2b6d6f3ba5d14159917783d436ee338\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_top.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_item_picture.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\item_picture.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_edit_clear.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\btn_edit_clear.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_name.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_edit_name.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xlistview_arrow.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\xlistview_arrow.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_main_bottom_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_main_bottom_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_popup_change_logo.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\popup_change_logo.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_spot_list.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_spot_list.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\anim_menu_input.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\anim\\menu_input.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_cancel_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_general_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_general_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_list_top_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_list_top_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_double_marker.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_double_marker.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_cancel_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_cancel_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_list_top_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_list_top_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_item_choose_info.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\item_choose_info.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_forgetpass_user.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_forgetpass_user.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_default_ptr_rotate.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_list_bottom_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_list_bottom_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_btn_right_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\dialog_btn_right_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_item_software_function.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\item_software_function.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_top.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_general_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_general_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_delete_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_delete_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_top.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_general_foot_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_general_foot_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_general_head_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_general_head_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_right_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_right_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_forgetpass.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\logo_forgetpass.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_vertical.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_general_center_p.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_general_center_p.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_dialog_table.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\dialog_table.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_view_edittext_perssed_border.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\view_edittext_perssed_border.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_ok_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_ok_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_forgetpass_phone.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_forgetpass_phone.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_logo.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_change_logo.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_getcode_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_getcode_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_choose.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_choose.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lajitong.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\lajitong.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_close.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\btn_close.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_back_p.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_back_p.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_list_bottom_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_list_bottom_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_bg.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\c2b6d6f3ba5d14159917783d436ee338\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_help_1.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_help_1.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_btn_left_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\dialog_btn_left_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_noml.9.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\ic_noml.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_default_ptr_flip.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_feedback.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_file_back_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_file_back_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_setting.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_setting.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_popup.9.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\popup.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_view_title.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\view_title.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_pic_new_1.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-nodpi\\pic_new_1.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_phone.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_edit_phone.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_dialog_nomap.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\dialog_nomap.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_scenic_marking.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_scenic_marking.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_normal.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\logo_normal.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_delete_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_delete_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_fragment_help_pager.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\fragment_help_pager.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_list_item_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_list_item_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_indicator_arrow.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_indicator_arrow.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_view_personal_info.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\view_personal_info.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_baidu_marking.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_baidu_marking.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\c2b6d6f3ba5d14159917783d436ee338\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_home.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_home.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_dialog_edit.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\dialog_edit.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\anim_menu_output.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\anim\\menu_output.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_delete_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_delete_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_view_edittext_error_border.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\view_edittext_error_border.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_bottom.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_btn_left_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\dialog_btn_left_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_cutting.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_cutting.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_pic_binding_2.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-nodpi\\pic_binding_2.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_edit_general_bg.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\edit_general_bg.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_general_center.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_general_center.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_go.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_go.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_pic.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_pic.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_bottom_menu_n.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\btn_bottom_menu_n.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_scenic_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_scenic_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_default_ptr_flip.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_scenic_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_scenic_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_login.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\logo_login.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgetpass.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_forgetpass.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_help.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_search.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_btn_right_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\dialog_btn_right_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_dialog_general.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\dialog_general.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_upload.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_upload.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_cancel_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_cancel_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_ok_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_ok_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_dialog_right_1.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_dialog_right_1.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_view_loading_bar_border.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\view_loading_bar_border.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_folder.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_folder.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_marker_n.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_marker_n.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_login_user.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_login_user.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_view_edittext_normal_border.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\view_edittext_normal_border.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_back_normal.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\btn_back_normal.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\c2b6d6f3ba5d14159917783d436ee338\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_personal_go.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\personal_go.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_right_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_right_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_view_map_popu.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\view_map_popu.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_marking_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_marking_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_marking.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_marking.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\c2b6d6f3ba5d14159917783d436ee338\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_fragment_personal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\fragment_personal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_point.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_point.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_tagging_methods.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_tagging_methods.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_horizontal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_back_n.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_back_n.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_general_head_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_general_head_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_bottom.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_bottom_menu_p.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\btn_bottom_menu_p.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_general_foot_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_general_foot_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_default_ptr_flip.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_list_bottom_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_list_bottom_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_view_dotted_line.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\view_dotted_line.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_default_ptr_rotate.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_xlistview_header.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_popu_sendchsenic.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\popu_sendchsenic.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\c2b6d6f3ba5d14159917783d436ee338\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_personal.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_personal.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_list_top_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_list_top_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_pic.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_pic.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_marking_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_marking_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_marker_p.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_marker_p.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_btn_left_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\dialog_btn_left_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_back_perssed.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\btn_back_perssed.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_item_file.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\item_file.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_choose_normal.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_choose_normal.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_forgetpass_pass.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_forgetpass_pass.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_tag.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_tag.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_general_foot_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_general_foot_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_back_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_back_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_baidu_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_baidu_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_edit_phone.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_edit_phone.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_pic_new_2.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-nodpi\\pic_new_2.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_dialog_left_1.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_dialog_left_1.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_view_search.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\view_search.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_scenic_map_redio_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\scenic_map_redio_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_btn_right_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\dialog_btn_right_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_xlistview_footer.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_ok_bg_perssed.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_ok_bg_perssed.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_item_scenic_spot.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\item_scenic_spot.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_pic_get_pass_2.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-nodpi\\pic_get_pass_2.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_help_2.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_help_2.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_pass.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_edit_pass.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_baidu_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_baidu_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_default_ptr_rotate.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\color_text_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\color\\text_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_view_loading.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\view_loading.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\c2b6d6f3ba5d14159917783d436ee338\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_login_pass.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_login_pass.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_fragment_help_home.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\fragment_help_home.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_personal_back.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\personal_back.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_scenic_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_scenic_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_choose_selected.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_choose_selected.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_border_btn_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_border_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_view_box_bg.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\view_box_bg.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_getcode_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_getcode_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_general_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_general_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_software_funtion.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_software_funtion.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_pic_upload_1.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-nodpi\\pic_upload_1.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_general_head_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_general_head_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_main_menu_l_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_main_menu_l_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_right_go.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_right_go.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_view_id_bg.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\view_id_bg.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_activity_file.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\activity_file.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_general_center_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_general_center_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_help_3.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_help_3.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_dialog_left_2.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_dialog_left_2.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_scenic_map_redio_selected.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\scenic_map_redio_selected.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_help_1_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_help_1_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_baidu_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_baidu_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_dialog_right_2.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_dialog_right_2.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_choose_folder.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_choose_folder.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_pic_get_pass_1.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-nodpi\\pic_get_pass_1.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_help_3_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_help_3_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_help_2_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_help_2_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_view_ad_cycle.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\view_ad_cycle.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_help_4_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_help_4_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_right_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_right_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_popup_ok.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\layout\\popup_ok.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_marka.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_marka.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_marking_bg_normal.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_marking_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_indicator_arrow.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\c2b6d6f3ba5d14159917783d436ee338\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable_btn_main_menu_r_selector.xml.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable\\btn_main_menu_r_selector.xml"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_edit.png.flat",
+        "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\src\\main\\res\\drawable-hdpi\\icon_edit.png"
+    }
+]

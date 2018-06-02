@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="coordinatorLayoutStyle"/>
+    <color name="background">#FEB130</color>
+    <color name="background_transparent">#80FEB130</color>
+    <color name="black">#000000</color>
+    <color name="black_transparent">#b0000000</color>
+    <color name="blue">#FF375BF1</color>
+    <color name="btn_border">#E2DFDF</color>
+    <color name="cancel">#ED6C44</color>
+    <color name="cancel_click">#E65529</color>
+    <color name="center_line">#D6D5D5</color>
+    <color name="edit_text">#7C7C7B</color>
+    <color name="gary_transparent">#80CCCCCC</color>
+    <color name="green">#FF34A350</color>
+    <color name="help_1">#E87E04</color>
+    <color name="help_2">#F39C11</color>
+    <color name="help_3">#F8BF3A</color>
+    <color name="help_4">#EB9532</color>
+    <color name="item_click">#FFBB33</color>
+    <color name="light_white_transparent">#FEFFFFFF</color>
+    <color name="list_back">#F1F1F1</color>
+    <color name="list_line">#E0E0E0</color>
+    <color name="loading_bg">#B0000000</color>
+    <color name="loading_mask_bg">#30000000</color>
+    <color name="no_map_text">#616161</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="ok">#F99406</color>
+    <color name="ok_click">#F18D01</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="prompt">#B7B6B6</color>
+    <color name="red">#FFC93437</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="sys_back">#F2F2F2</color>
+    <color name="text">#615D5E</color>
+    <color name="text_click">#BD6F02</color>
+    <color name="transparent">#00000000</color>
+    <color name="value">#878484</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_transparent">#90FFFFFF</color>
+    <color name="yellow">#FFF7D23E</color>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/></declare-styleable>
+    <declare-styleable name="CircularProgress"><attr format="dimension" name="borderWidth"/></declare-styleable>
+    <declare-styleable name="CoordinatorLayout"><attr format="reference" name="keylines"/><attr format="color|reference" name="statusBarBackground"/></declare-styleable>
+    <declare-styleable name="CoordinatorLayout_Layout"><attr name="android:layout_gravity"/><attr format="string" name="layout_behavior"/><attr format="reference" name="layout_anchor"/><attr format="integer" name="layout_keyline"/><attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr><attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr><attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr></declare-styleable>
+    <declare-styleable name="FontFamily"><attr format="string" name="fontProviderAuthority"/><attr format="string" name="fontProviderPackage"/><attr format="string" name="fontProviderQuery"/><attr format="reference" name="fontProviderCerts"/><attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr><attr format="integer" name="fontProviderFetchTimeout">
+          
+            <enum name="forever" value="-1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="FontFamilyFont"><attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr><attr format="reference" name="font"/><attr format="integer" name="fontWeight"/><attr name="android:fontStyle"/><attr name="android:font"/><attr name="android:fontWeight"/></declare-styleable>
+    <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_radius">25dp</dimen>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="edittext_radius">25dp</dimen>
+    <dimen name="edittext_stroke">2dp</dimen>
+    <dimen name="forgetpass_button_text_size">16sp</dimen>
+    <dimen name="general_button_radius">10dp</dimen>
+    <dimen name="getcode_button_radius">20dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="loading_bar_radius">8dp</dimen>
+    <dimen name="login_button_text_size">20sp</dimen>
+    <dimen name="login_prompt_text_size">18sp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_content_margin_start">8dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_main_column_padding_top">10dp</dimen>
+    <dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_right_side_padding_top">2dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">10dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <dimen name="title_right_button_radius">14dp</dimen>
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <item name="gridview" type="id"/>
+    <item name="line1" type="id"/>
+    <item name="line3" type="id"/>
+    <item name="scrollview" type="id"/>
+    <item name="tag_bind" type="id"/>
+    <item name="tag_transition_group" type="id"/>
+    <item name="text" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="title" type="id"/>
+    <item name="webview" type="id"/>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="account">用户名</string>
+    <string name="account_null_prompt">请输入用户名</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">景区信息管理</string>
+    <string name="attract_search_tip">请在此输入景点名称</string>
+    <string name="back">返回</string>
+    <string name="bind_prompt_is_bind">此景点已绑定，请选未绑定景点</string>
+    <string name="bind_prompt_no_bind">绑定需要指定景点</string>
+    <string name="bind_scenic_spot">绑定新景点</string>
+    <string name="binded">已绑定</string>
+    <string name="binding_again">重新绑定</string>
+    <string name="binding_phone_number">绑定手机号码</string>
+    <string name="binding_phone_success_prompt">手机绑定成功</string>
+    <string name="binding_success_prompt">信息绑定成功</string>
+    <string name="cancel">取消</string>
+    <string name="cancel_marker_prompt">你当前的操作尚未完成，取消将丢失刚才的数据，是否取消？</string>
+    <string name="change_logo">更换头像</string>
+    <string name="choose_floder">文件浏览</string>
+    <string name="choose_pic">从相册选择</string>
+    <string name="choose_picture">图片浏览</string>
+    <string name="choose_scenic_spot_marking">请选择你要使用的标注方式</string>
+    <string name="code_null_prompt">请输入验证码</string>
+    <string name="current_binding_info">当前绑定景点信息</string>
+    <string name="current_scenic_info">当前景点信息</string>
+    <string name="del_binding_success_prompt">信息解绑成功</string>
+    <string name="delete">删  除</string>
+    <string name="delete_point">  删  除  </string>
+    <string name="delete_scenic_spot">删除景点</string>
+    <string name="determine_the_save_scenic_info">  绑  定  </string>
+    <string name="determine_the_upload">确认上传</string>
+    <string name="dialog_ahead">  是  </string>
+    <string name="dialog_cancel">  否  </string>
+    <string name="dialog_marking">    标  记    </string>
+    <string name="dialog_ok">  是  </string>
+    <string name="dialog_success">    完  成    </string>
+    <string name="edit_info">信息修改</string>
+    <string name="edit_nick">更改昵称</string>
+    <string name="edit_phone">修改绑定</string>
+    <string name="edit_user_pass">修改账户密码</string>
+    <string name="feedback">意见反馈</string>
+    <string name="feedback_none_prompt">-_-# 无字天书功能正在研发中，亲，请说话</string>
+    <string name="feedback_prompt">用着不爽，随便说两句。</string>
+    <string name="feedback_success_prompt">感谢您的反馈，我们会尽快处理</string>
+    <string name="file_back_error">已经是根目录了</string>
+    <string name="for_baidu_map">百度地图标注景点</string>
+    <string name="for_scenic_map">景区地图标注景点</string>
+    <string name="forget_pass">忘记密码？</string>
+    <string name="funtion_1">一个景点进行多处标记</string>
+    <string name="funtion_2">一处景点多个坐标进行标注，确定景点范围</string>
+    <string name="funtion_3">景区图上传，标注信息</string>
+    <string name="funtion_4">地图定位标注采集信息</string>
+    <string name="funtion_5">绑定手机，确保您信息数据安全</string>
+    <string name="funtion_6">设置头像，给用户一点DIY空间</string>
+    <string name="funtion_7">意见反馈，您的吐槽我们的进步</string>
+    <string name="funtion_8">使用帮助，哪里不会点那里~So easy!</string>
+    <string name="get_code">获取验证码</string>
+    <string name="get_code_error_prompt">验证码获取失败，请重试</string>
+    <string name="get_data_error_prompt">暂无标注的景点，请尽快标注！</string>
+    <string name="get_pass_back">密码找回</string>
+    <string name="head_cutting">裁剪头像</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help">使用帮助</string>
+    <string name="home">首页      </string>
+    <string name="input_code">输入验证码</string>
+    <string name="input_current_phone">请输入绑定手机</string>
+    <string name="input_new_pass">输入新密码</string>
+    <string name="input_new_phone">请输入新绑定手机</string>
+    <string name="input_nick">请输入昵称</string>
+    <string name="input_old_pass">请输入原密码</string>
+    <string name="input_repass">确认密码</string>
+    <string name="input_scenic_name">请在下框中输入景点名称:</string>
+    <string name="last_login_info">最近登录信息   </string>
+    <string name="loading_prompt">载入中...</string>
+    <string name="login">登   录</string>
+    <string name="login_error_prompt">用户名或密码错误</string>
+    <string name="login_prompt">景区信息管理</string>
+    <string name="many_marking_err_prompt">多点标注不能少于三个</string>
+    <string name="map_bind_point">绑定或删除</string>
+    <string name="map_clear_point">清除</string>
+    <string name="map_edit_point">地图标点</string>
+    <string name="marking_type_path">道路</string>
+    <string name="marking_type_region">区域</string>
+    <string name="marking_type_spot">景点</string>
+    <string name="my_email">我绑定的邮箱</string>
+    <string name="my_info">我的资料</string>
+    <string name="my_nick">我的昵称</string>
+    <string name="my_phone">我绑定的手机</string>
+    <string name="network_error_try_again">网络异常，请检查网络后重试</string>
+    <string name="network_no_error_prompt">未检测到网络连接</string>
+    <string name="new_epass">新密码</string>
+    <string name="new_scenic_spot">标注新景点</string>
+    <string name="new_version_prompt">是要立即为您下载更新吗？</string>
+    <string name="newpass_null_prompt">请输入新密码</string>
+    <string name="no_map_and_upload">您还没有上传景区相应的地图，请选择要上传的景区地图。</string>
+    <string name="no_new_version">当前已是最新版本</string>
+    <string name="no_sdcard">未检测到SD卡</string>
+    <string name="ok">确认</string>
+    <string name="ok2">确   认</string>
+    <string name="ok_edit_pass">确认修改密码</string>
+    <string name="ok_update">确认更换</string>
+    <string name="old_epass">原密码</string>
+    <string name="pass_back">密码找回</string>
+    <string name="password">密 码</string>
+    <string name="password_length_prompt">密码不能小于6位</string>
+    <string name="password_null_prompt">请输入密码</string>
+    <string name="personal">个人中心</string>
+    <string name="phone_error_prompt">手机号有误</string>
+    <string name="phone_null_prompt">请输入手机号</string>
+    <string name="phone_prompt">绑定手机</string>
+    <string name="photograph">拍照</string>
+    <string name="please_go_next">前往下个标记点……</string>
+    <string name="prompt_to_exit">再按一次退出应用</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <string name="repass_error_prompt">两次密码不一致</string>
+    <string name="repass_null_prompt">请确认密码</string>
+    <string name="request_error_prompt">访问失败，请稍后重试</string>
+    <string name="request_success_prompt">删除成功!</string>
+    <string name="resetpass_error_phone">手机号绑定失败，请核对信息后重试</string>
+    <string name="resetpass_error_prompt">密码重置失败，请核对信息后重试</string>
+    <string name="resetpass_success_prompt">密码重置成功，请重新登陆</string>
+    <string name="save">保存</string>
+    <string name="save_scenic_spot_info">保存景点信息</string>
+    <string name="scenic_map_manage">景区地图管理</string>
+    <string name="scenic_spot_id">景点编号</string>
+    <string name="scenic_spot_info">景点信息</string>
+    <string name="scenic_spot_lat">纬度：</string>
+    <string name="scenic_spot_lon">经度：</string>
+    <string name="scenic_spot_name">景点名称</string>
+    <string name="search_verson">版本查询</string>
+    <string name="setting">设置</string>
+    <string name="show_scenic_spot_by_list">景点列表</string>
+    <string name="soft_info">软件功能</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="submit_edit_nick_error">您的昵称没有变化</string>
+    <string name="submit_feed">提交意见</string>
+    <string name="system_error_prompt">系统异常，请重新操作</string>
+    <string name="system_feedback">系统问题与反馈</string>
+    <string name="taged">已标注景点</string>
+    <string name="tagging_again">重新标注</string>
+    <string name="tagging_binding_status">绑定状态</string>
+    <string name="tagging_methods">标注方式</string>
+    <string name="tagging_methods_single">标注方式：景点标注</string>
+    <string name="tips">小提示：\n1.图片单张支持3M以下，超过系统会自动压缩\n2.自动压缩可能会使图片失真\n3.支持图片格式：jpg、jpeg、png</string>
+    <string name="unbind">未绑定</string>
+    <string name="unlogin">退出登录</string>
+    <string name="upload_attrect_info_success">景点信息上传成功</string>
+    <string name="upload_date">上传日期</string>
+    <string name="upload_map">上传地图</string>
+    <string name="upload_map_failure_prompt">景区图上传失败</string>
+    <string name="upload_map_head_prompt">头像上传失败</string>
+    <string name="upload_map_number_prompt">最多标注5个点</string>
+    <string name="upload_scenic_map">上传景区地图</string>
+    <string name="user_rating">用户等级：</string>
+    <string name="wait_code">请等待</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <style name="EdtiText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">35dp</item>
+        <item name="android:layout_marginRight">35dp</item>
+        <item name="android:background">@drawable/view_edittext_normal_border</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">5dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorHint">@color/ok</item>
+        <item name="android:textCursorDrawable">@null</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Media"/>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Time.Media"/>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="TextAppearance.Compat.Notification.Title.Media"/>
+    <style name="Widget.Compat.NotificationActionContainer" parent=""/>
+    <style name="Widget.Compat.NotificationActionText" parent=""/>
+    <style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style>
+    <style name="pop_anim_style">
+        <item name="android:windowEnterAnimation">@anim/menu_input</item>
+        <item name="android:windowExitAnimation">@anim/menu_output</item>
+    </style>
+</resources>

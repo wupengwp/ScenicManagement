@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:orientation="vertical"
+        android:overScrollMode="never"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="vertical"
+            android:paddingBottom="40dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingBottom="30dp"
+                android:paddingTop="45dp"
+                android:src="@drawable/logo_login" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/login_prompt"
+                android:textColor="@color/white"
+                android:textSize="@dimen/login_prompt_text_size" />
+
+            <EditText
+                android:id="@+id/login_user_name_et"
+                style="@style/EdtiText"
+                android:layout_marginTop="8dp"
+                android:drawableLeft="@drawable/icon_login_user"
+                android:hint="@string/account" />
+
+            <EditText
+                android:id="@+id/login_user_pass_et"
+                style="@style/EdtiText"
+                android:layout_marginTop="8dp"
+                android:drawableLeft="@drawable/icon_login_pass"
+                android:hint="@string/password"
+                android:inputType="textPassword" />
+
+            <Button
+                android:id="@+id/login_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_ok_selector"
+                android:text="@string/login"
+                android:textColor="@color/white"
+                android:textSize="@dimen/login_button_text_size" />
+
+            <TextView
+                android:id="@+id/forget_tv_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:text="@string/forget_pass"
+                android:textColor="@color/text_selector"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </ScrollView>
+
+    <include layout="@layout/view_loading" />
+
+</FrameLayout>

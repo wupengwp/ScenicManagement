@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/sys_back"
+    android:orientation="vertical"
+    android:paddingBottom="30dp"
+    android:paddingTop="20dp" >
+
+    <Button
+        android:id="@+id/popup_ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:background="@drawable/btn_ok_selector"
+        android:text="@string/determine_the_upload"
+        android:textColor="@color/white"
+        android:textSize="@dimen/login_button_text_size" />
+
+</LinearLayout>

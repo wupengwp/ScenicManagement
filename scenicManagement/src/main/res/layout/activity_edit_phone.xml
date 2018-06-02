@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sys_back" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical"
+        android:paddingBottom="40dp" >
+
+        <include layout="@layout/view_title" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="35dp" >
+
+            <Button
+                android:id="@+id/getcode_btn"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/btn_right_selector"
+                
+                android:text="@string/get_code"
+                android:textColor="@color/white"
+                android:textSize="@dimen/forgetpass_button_text_size" />
+
+            <EditText
+                android:id="@+id/current_binding_phone_et"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="5dp"
+                android:layout_toLeftOf="@id/getcode_btn"
+                android:background="@drawable/edit_general_bg"
+                android:drawableLeft="@drawable/icon_edit_phone"
+                android:drawablePadding="8dp"
+                android:hint="@string/binding_phone_number"
+                android:inputType="phone"
+                android:paddingBottom="10dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="20dp"
+                android:paddingTop="10dp"
+                android:textColor="@color/edit_text"
+                android:textSize="14sp" />
+        </RelativeLayout>
+
+        <EditText
+            android:id="@+id/current_code_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/edit_general_bg"
+            android:drawableLeft="@drawable/icon_edit"
+            android:drawablePadding="8dp"
+            android:hint="@string/input_code"
+            android:paddingBottom="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp"
+            android:textColor="@color/edit_text"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/new_phone_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/edit_general_bg"
+            android:drawableLeft="@drawable/icon_edit"
+            android:drawablePadding="8dp"
+            android:hint="@string/input_new_phone"
+            android:inputType="phone"
+            android:paddingBottom="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp"
+            android:textColor="@color/edit_text"
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="12dp"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/ok_btn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="2dp"
+                android:layout_weight="1"
+                android:background="@drawable/btn_ok_selector"
+                android:text="@string/ok_update"
+                android:textColor="@color/white"
+                android:textSize="@dimen/login_button_text_size" />
+
+            <Button
+                android:id="@+id/cancel_btn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:layout_weight="1"
+                android:background="@drawable/btn_cancel_selector"
+                android:text="@string/cancel"
+                android:textColor="@color/white"
+                android:textSize="@dimen/login_button_text_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <include layout="@layout/view_loading" />
+
+</FrameLayout>

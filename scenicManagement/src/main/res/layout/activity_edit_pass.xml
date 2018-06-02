@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:orientation="vertical"
+        android:overScrollMode="never"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="vertical"
+            android:paddingBottom="40dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingBottom="30dp"
+                android:paddingTop="45dp"
+                android:src="@drawable/logo_login" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/login_prompt"
+                android:textColor="@color/white"
+                android:textSize="@dimen/login_prompt_text_size" />
+
+            <EditText
+                android:id="@+id/edit_old_pass_et"
+                style="@style/EdtiText"
+                android:layout_marginTop="8dp"
+                android:drawableLeft="@drawable/icon_forgetpass_pass"
+                android:hint="@string/old_epass"
+                android:inputType="textPassword" />
+
+            <EditText
+                android:id="@+id/edit_buding_phone_et"
+                style="@style/EdtiText"
+                android:layout_marginTop="8dp"
+                android:drawableLeft="@drawable/icon_forgetpass_phone"
+                android:hint="@string/binding_phone_number"
+                android:inputType="phone" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="8dp" >
+
+                <Button
+                    android:id="@+id/getcode_btn"
+                    android:layout_width="100dp"
+                    android:layout_height="35dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/btn_getcode_selector"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:text="@string/get_code"
+                    android:textColor="@color/white"
+                    android:textSize="14sp" />
+
+                <EditText
+                    android:id="@+id/edit_user_code_et"
+                    style="@style/EdtiText"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toLeftOf="@id/getcode_btn"
+                    android:drawableLeft="@drawable/icon_forgetpass_pass"
+                    android:hint="@string/input_code" />
+            </RelativeLayout>
+
+            <EditText
+                android:id="@+id/edit_new_pass_et"
+                style="@style/EdtiText"
+                android:layout_marginTop="8dp"
+                android:drawableLeft="@drawable/icon_forgetpass_pass"
+                android:hint="@string/new_epass"
+                android:inputType="textPassword" />
+
+            <EditText
+                android:id="@+id/edit_new_repass_et"
+                style="@style/EdtiText"
+                android:layout_marginTop="8dp"
+                android:drawableLeft="@drawable/icon_forgetpass_pass"
+                android:hint="@string/input_repass"
+                android:inputType="textPassword" />
+
+            <Button
+                android:id="@+id/ok_edit_pass"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_ok_selector"
+                android:text="@string/ok_edit_pass"
+                android:textColor="@color/white"
+                android:textSize="@dimen/login_button_text_size" />
+        </LinearLayout>
+    </ScrollView>
+
+    <include layout="@layout/view_loading" />
+
+</FrameLayout>

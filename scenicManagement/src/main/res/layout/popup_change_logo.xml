@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background"
+    android:orientation="vertical"
+    android:paddingBottom="30dp"
+    android:paddingTop="20dp" >
+
+    <Button
+        android:id="@+id/popup_photograph"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:background="@drawable/btn_border_btn_selector"
+        android:text="@string/photograph"
+        android:textColor="@color/white"
+        android:textSize="@dimen/login_button_text_size" />
+
+    <Button
+        android:id="@+id/popup_choose_pic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_border_btn_selector"
+        android:text="@string/choose_pic"
+        android:textColor="@color/white"
+        android:textSize="@dimen/login_button_text_size" />
+
+    <Button
+        android:id="@+id/popup_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/btn_ok_selector"
+        android:text="@string/cancel"
+        android:textColor="@color/white"
+        android:textSize="@dimen/login_button_text_size" />
+
+</LinearLayout>

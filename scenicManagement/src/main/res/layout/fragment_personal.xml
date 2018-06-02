@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sys_back" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <include layout="@layout/view_title" />
+
+        <include layout="@layout/view_personal_info" />
+
+        <Button
+            android:id="@+id/scenic_map_manage_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_general_selector"
+            android:text="@string/scenic_map_manage"
+            android:textColor="@color/text"
+            android:textSize="@dimen/login_button_text_size" />
+
+        <Button
+            android:id="@+id/edit_user_pass_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_general_selector"
+            android:text="@string/edit_user_pass"
+            android:textColor="@color/text"
+            android:textSize="@dimen/login_button_text_size" />
+
+        <!-- 
+        <Button
+            android:id="@+id/feedback_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_general_selector"
+            android:text="@string/feedback"
+            android:textColor="@color/text"
+            android:textSize="@dimen/login_button_text_size" />
+		 -->
+        <Button
+            android:id="@+id/unlogin_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_ok_selector"
+            android:text="@string/unlogin"
+            android:textColor="@color/white"
+            android:textSize="@dimen/login_button_text_size" />
+    </LinearLayout>
+
+    <include layout="@layout/view_loading" />
+
+</FrameLayout>

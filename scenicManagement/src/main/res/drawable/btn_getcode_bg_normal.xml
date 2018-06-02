@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <solid android:color="@color/ok" />
+
+    <stroke
+        android:width="0.01dp"
+        android:color="@color/transparent" />
+
+    <corners
+        android:bottomLeftRadius="@dimen/getcode_button_radius"
+        android:bottomRightRadius="@dimen/getcode_button_radius"
+        android:topLeftRadius="@dimen/getcode_button_radius"
+        android:topRightRadius="@dimen/getcode_button_radius" />
+
+</shape>

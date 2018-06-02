@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScenicManagement.iml" filepath="$PROJECT_DIR$/ScenicManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefreshlibrary/pullToRefreshlibrary.iml" filepath="$PROJECT_DIR$/pullToRefreshlibrary/pullToRefreshlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scenicManagement/scenicManagement.iml" filepath="$PROJECT_DIR$/scenicManagement/scenicManagement.iml" />
+    </modules>
+  </component>
+</project>

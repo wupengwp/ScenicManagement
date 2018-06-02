@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <include layout="@layout/view_title" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/ok"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp" >
+
+            <TextView
+                android:id="@+id/set_map_marka"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/scenic_map_redio_selected"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:paddingTop="5dp"
+                android:text="@string/map_edit_point"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/bind_map_marka"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/scenic_map_redio_normal"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:paddingTop="5dp"
+                android:text="@string/map_bind_point"
+                android:textColor="@color/white" />
+            
+	            <ImageButton
+	            android:id="@+id/clear_map_marka"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginLeft="10dp"
+	            android:background="#0000"
+	            android:paddingTop="5dp"
+	            android:src="@drawable/lajitong" />               
+                
+        </LinearLayout>
+
+        <android.support.v4.widget.DrawerLayout
+            android:id="@+id/drawer_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <FrameLayout
+                android:id="@+id/content_frame"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <com.jiagu.management.widget.ImgMapView
+                    android:id="@+id/scanic_map_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="matrix" />
+            </FrameLayout>
+
+            <LinearLayout
+                android:id="@+id/left_drawer"
+                android:layout_width="300dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="left"
+                android:background="@color/light_white_transparent"
+                android:choiceMode="singleChoice"
+                android:orientation="vertical" >
+
+                <ImageButton
+                    android:id="@+id/left_close_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:background="@null"
+                    android:padding="10dp"
+                    android:src="@drawable/btn_close" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/left_save_btn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="25dp"
+                        
+                        android:background="@drawable/btn_right_selector"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginLeft="15dp"
+            			android:layout_marginRight="15dp"
+                        android:text="@string/determine_the_save_scenic_info"
+                        android:textColor="@color/white"
+                        android:textSize="16sp" />
+                    
+                    <Button
+                        android:id="@+id/left_delete_btn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="25dp"
+                        
+                        android:background="@drawable/scenic_map_redio_selected"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginLeft="15dp"
+            			android:layout_marginRight="15dp"
+                        android:text="@string/delete_point"
+                        android:textColor="@color/white"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <ListView
+                    android:id="@+id/left_scenic_spot_list"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="15dp"
+                    android:divider="@null"
+                    android:dividerHeight="0dp"
+                    android:overScrollMode="never"
+                    android:scrollbars="none" >
+                </ListView>
+            </LinearLayout>
+        </android.support.v4.widget.DrawerLayout>
+    </LinearLayout>
+
+    <include layout="@layout/view_loading" />
+
+</FrameLayout>

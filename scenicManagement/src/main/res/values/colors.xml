@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white_transparent">#90FFFFFF</color>
+    <color name="gary_transparent">#80CCCCCC</color>
+    <color name="light_white_transparent">#FEFFFFFF</color>
+    <color name="black_transparent">#b0000000</color>
+    <color name="background_transparent">#80FEB130</color>
+    
+    <color name="loading_bg">#B0000000</color>
+    <color name="loading_mask_bg">#30000000</color>
+	<color name="background">#FEB130</color>
+	<color name="ok">#F99406</color>
+	<color name="ok_click">#F18D01</color>
+	<color name="cancel">#ED6C44</color>
+	<color name="cancel_click">#E65529</color>
+	<color name="text_click">#BD6F02</color>
+	<color name="sys_back" >#F2F2F2</color>
+	<color name="list_back" >#F1F1F1</color>
+	<color name="list_line">#E0E0E0</color>
+	<color name="btn_border">#E2DFDF</color>
+	<color name="text">#615D5E</color>
+	<color name="edit_text">#7C7C7B</color>
+	<color name="prompt">#B7B6B6</color>
+	<color name="value">#878484</color>
+	<color name="item_click">#FFBB33</color>
+	<color name="center_line">#D6D5D5</color>
+	<color name="no_map_text">#616161</color>
+	
+	<color name="red">#FFC93437</color>
+    <color name="blue">#FF375BF1</color>
+    <color name="yellow">#FFF7D23E</color>
+    <color name="green">#FF34A350</color>
+    
+    <color name="help_1">#E87E04</color>
+    <color name="help_2">#F39C11</color>
+    <color name="help_3">#F8BF3A</color>
+    <color name="help_4">#EB9532</color>
+</resources>

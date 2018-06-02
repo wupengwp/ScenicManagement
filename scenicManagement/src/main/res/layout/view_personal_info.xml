@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.jiagu.management"
+    android:id="@+id/setting_my_info"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp" >
+
+    <com.jiagu.management.widget.CircleImageView
+        android:id="@+id/personal_logo_img"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/logo_normal"
+        app:border_color="@color/transparent"
+        app:border_width="0dp" />
+
+    <RelativeLayout
+        android:id="@+id/user_nick_panel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_toRightOf="@id/personal_logo_img" >
+
+        <TextView
+            android:id="@+id/personal_username_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="@string/account"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/rigth_btn_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/personal_go" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/personal_level_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/user_nick_panel"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/personal_logo_img"
+        android:text="@string/user_rating"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/personal_info_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/personal_level_tv"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="12dp"
+        android:layout_toRightOf="@id/personal_logo_img"
+        android:textSize="12sp" />
+
+</RelativeLayout>

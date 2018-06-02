@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\scenicManagement\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pl\\values-pl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wupeng\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b168fd089532e2267ccc3b04a18a4c37\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "289",
+                        "endColumns": "100",
+                        "endOffsets": "385"
+                    }
+                },
+                {
+                    "source": "D:\\androiddevelop\\androidstudioWorkSpace\\ScenicManagement\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,136,210",
+                        "endColumns": "80,73,78",
+                        "endOffsets": "131,205,284"
+                    }
+                }
+            ]
+        }
+    ]
+}

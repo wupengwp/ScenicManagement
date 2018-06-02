@@ -1,0 +1,67 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_transparent"
+    tools:context=".activities.CuttingActivity" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.jiagu.management.widget.ClipImageView
+            android:id="@+id/src_pic"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <com.jiagu.management.widget.ClipView
+            android:id="@+id/clipview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/transparent"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:text="@string/head_cutting"
+            android:textColor="@color/white"
+            android:textSize="@dimen/login_button_text_size" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="15dp" >
+
+            <TextView
+                android:id="@+id/logo_cancel_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:drawableLeft="@drawable/btn_back_selector"
+                android:padding="10dp"
+                android:text="@string/cancel"
+                android:textColor="@color/text_selector"
+                android:textSize="14sp" />
+
+            <Button
+                android:id="@+id/logo_upload_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_toRightOf="@id/logo_cancel_btn"
+                android:background="@drawable/btn_ok_selector"
+                android:text="@string/ok2"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <include layout="@layout/view_loading" />
+
+    <include layout="@layout/view_picture" />
+
+</FrameLayout>
